@@ -1,0 +1,2 @@
+44 has Pay amount 250.0Tk from Meter number 255
+55 has Pay amount 4000.0Tk from Meter number 322
